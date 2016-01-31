@@ -15,4 +15,4 @@
 
 ![screenshot](gps1-1.png)
 
-*Ice cream* 
+*gelatto* 
